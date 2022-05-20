@@ -1,0 +1,1 @@
+<?php echo 'Statistics' ?><?php echo 'S1' ?><?php require_once 'module_info.php'; ?>

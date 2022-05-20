@@ -1,0 +1,167 @@
+body{
+    background-color:#589ED9;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.body{
+    width: auto;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.Teacher{
+    width: auto;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+
+.logo{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+
+#header
+{
+    position: relative;
+}
+
+#btnhome {  
+    position: relative;
+    left: -82px;
+    margin: auto;
+    margin-right: 50px;
+    margin-top: 1px;
+    width: auto;
+    height: 45px; 
+    
+    background-color: #2D6AB4;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+
+}
+#btnhome:hover{
+    background-color: red;
+}
+
+#btncreate {  
+    position: relative;
+    left: -120px;
+    margin-right: 50px;
+    margin-top: 1px;
+    width: auto;
+    height: 45px; 
+    
+    background-color: #2D6AB4;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+
+}
+#btncreate:hover{
+    background-color: red;
+}
+
+#logoutbtn
+{
+    position: relative;
+    left: 180px;
+    top: -138px;
+    margin-right: 50px;
+    margin-top: 1px;
+    width: auto;
+    height: 45px; 
+    
+    background-color: #2D6AB4;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+}
+
+#logoutbtn:hover{
+    background-color: red;
+}
+
+#modulebtn
+{
+    position: relative;
+    left: -300px;
+    top: 20px;
+    margin-right: 50px;
+    margin-top: 1px;
+    width: auto;
+    height: 45px; 
+    
+    background-color: #2D6AB4;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+}
+
+#modulebtn:hover{
+    background-color: goldenrod;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    
+    left: 74px;
+    top: -92px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    /* padding: 12px 16px; */
+    z-index: 1;
+    border-radius: 10px;
+}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+#coursebtn
+{   
+    margin-right: 50px;
+    margin-top: 1px;
+    width: auto;
+    height: 45px; 
+    
+    background-color: #2D6AB4;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+
+}
+
